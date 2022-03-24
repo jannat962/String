@@ -25,3 +25,11 @@ p{
 i{
     margin-right: 100px;
 }
+input{
+    padding: 5px;
+    padding-left: auto;
+}
+span{
+    margin-left: 20px ;
+    margin-right: 20px;
+}
