@@ -1,0 +1,27 @@
+.box{
+    width: 600px;
+    height: 600px;
+    background-color: aquamarine;
+    border: 2px dashed black;
+    margin: auto;
+}
+H1{
+    color: rgb(10, 49, 28);
+    margin: 130px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: bisque;
+    border: 1px solid blueviolet;
+    margin-left: 420px;
+}
+p{
+    margin: 20px;
+}
+i{
+    margin-right: 100px;
+}
