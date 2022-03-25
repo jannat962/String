@@ -1,6 +1,6 @@
 .box{
-    width: 600px;
-    height: 600px;
+    width: 650px;
+    height: 850px;
     background-color: rgb(219, 201, 180);
     border: 2px dashed black;
     margin: auto;
@@ -17,7 +17,7 @@ H1{
     height: 100px;
     background-color: bisque;
     border: 1px solid blueviolet;
-    margin-left: 420px;
+    margin-left: 430px;
 }
 p{
     margin: 20px;
@@ -28,6 +28,10 @@ i{
 input{
     padding: 5px;
     padding-left: auto;
+    padding-right: 20px;
+    margin: 5px;
+font-size: 15px;
+
 }
 span{
     margin-left: 20px ;
